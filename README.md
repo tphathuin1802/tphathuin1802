@@ -1,7 +1,7 @@
 Hi 👋 My name is PHAT HUYNH
 ===========================
 
-Data Science and Web Developments
+Data Science and Web Student
 ---------------------------------
 
 Results-oriented Data Science student pursuing a degree in Applied Mathematics and Data Analytics at the University of Economics and Law. Seeking opportunities to apply knowledge in data science, machine learning to solve real-world challenges. Proven track record of success in academic projects, problem-solving, and cross-functional teamwork. Skilled in leveraging advanced tools and technologies to optimize workflows and deliver data-driven insights.
