@@ -1,7 +1,7 @@
-Hi 👋 My name is PHAT HUYNH
+Hi 👋 I am PHAT HUYNH
 ===========================
 
-Data Science and Web Intergration
+Data Science and Web Intergration ⚛
 ---------------------------------
 
 I have a passion for the Data Science domain and integrating it into webpages, as well as applying my Economics knowledge to enhance business performance.
