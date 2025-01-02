@@ -1,10 +1,10 @@
 Hi 👋 My name is PHAT HUYNH
 ===========================
 
-Web and Data Science Developments
+Data Science and Web Intergration
 ---------------------------------
 
-Results-oriented Data Science student pursuing a degree in Applied Mathematics and Data Analytics at the University of Economics and Law. Seeking opportunities to apply knowledge in data science, machine learning to solve real-world challenges. Proven track record of success in academic projects, problem-solving, and cross-functional teamwork. Skilled in leveraging advanced tools and technologies to optimize workflows and deliver data-driven insights.
+I have a passion for the Data Science domain and integrating it into webpages, as well as applying my Economics knowledge to enhance business performance.
 
 * 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [phathuynhwork18@gmail.com](mailto:phathuynhwork18@gmail.com)
