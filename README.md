@@ -1,5 +1,5 @@
 # Hi there, I'm PHAT HUYNH 
-------------------------------------
+
 I have a passion for the Data Science domain and integrating it into webpages, as well as applying my Economics knowledge to enhance business performance.
 
 - ✉️  You can contact me at [phathuynhwork18@gmail.com](mailto:phathuynhwork18@gmail.com)
