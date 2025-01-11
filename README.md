@@ -1,4 +1,4 @@
-# Hi there, I'm PHAT HUYNH 
+# **HI THERE, I'M PHAT HUYNH **
 
 I have a passion for the Data Science domain and integrating it into webpages, as well as applying my Economics knowledge to enhance business performance.
 
