@@ -2,9 +2,7 @@
 
 I have a passion for the Data Science domain and integrating it into webpages, as well as applying my Economics knowledge to enhance business performance.
 
-- ✉️  You can contact me at [phathuynhwork18@gmail.com](mailto:phathuynhwork18@gmail.com)
-- 🧠  I'm learning Django, Flask, PyTorch, TensorFlow
-- 🤖  "In God we trust, all others bring data" 
+ 🤖  "In God we trust, all others bring data" 
 
 ## Skills
 <p align="left">
