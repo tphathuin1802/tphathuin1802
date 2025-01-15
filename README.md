@@ -1,6 +1,6 @@
 ### HI THERE, I'M PHAT HUYNH
 
-I have a passion for the Data Science domain and integrating it into webpages, as well as applying my Economics knowledge to enhance business performance.
+I have a passion for the Data Science in Economics domain, especially integrating it into website, as well as applying my Economics knowledge to enhance business performance.
 
  🤖  "In God we trust, all others bring data" 
 
