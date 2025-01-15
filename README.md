@@ -1,6 +1,6 @@
 #### HI, I'M STEPHEN
 
-I have a passion for the Data Science in Economics domain, especially integrating it into website, as well as applying my Economics knowledge to enhance business performance.
+I am deeply passionate about Data Science in Economics, particularly exploring how to seamlessly integrate data-driven insights into dynamic websites. I am driven by the potential to leverage my economic knowledge to significantly enhance business performance
 
 <p align="left">
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="30" height="30" alt="rlang" /></a>
