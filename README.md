@@ -1,4 +1,4 @@
-## HI, I'M STEPHEN AKA PHAT HUYNH
+### HI, I'M STEPHEN AKA PHAT HUYNH
 
 I have a passion for the Data Science in Economics domain, especially integrating it into website, as well as applying my Economics knowledge to enhance business performance.
 
