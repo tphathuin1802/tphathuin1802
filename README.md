@@ -1,6 +1,6 @@
 ### HI, I'M STEPHEN
 
-<span style="font-family: 'Lucida Console';">foo</span>
+<span style="font-family: 'Jetbrains Mono';">foo</span>
 
 I have a passion for the Data Science in Economics domain, especially integrating it into website, as well as applying my Economics knowledge to enhance business performance.
 
