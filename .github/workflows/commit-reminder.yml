@@ -1,0 +1,40 @@
+name: Daily Email Reminder
+
+on:
+  schedule:
+    - cron: "0 11 * * *"  # Runs at 6 PM Vietnam time (11 AM UTC)
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set Date & Time Variables
+        run: |
+          echo "CURRENT_DATE=$(date +"%A, %B %d, %Y")" >> $GITHUB_ENV
+          echo "CURRENT_TIME=$(date +"%H:%M:%S UTC")" >> $GITHUB_ENV
+
+      - name: Send Daily Reminder Email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "🚀 Daily GitHub Reminder"
+          body: |
+            Hi there! 👋
+
+            This is your **daily reminder** from GitHub! 🚀  
+            Stay on track and keep pushing forward.  
+
+            📅 **Date:** ${{ env.CURRENT_DATE }}  
+            ⏰ **Current Time (UTC):** ${{ env.CURRENT_TIME }}  
+
+            Best,  
+            **GitHub Reminder Bot**
+          to: your-email@gmail.com
+          from: "GitHub Reminder Bot <your-email@gmail.com>"
+
+      - name: Confirm Email Sent
+        run: echo "✅ Email sent successfully on ${{ env.CURRENT_DATE }} at ${{ env.CURRENT_TIME }}"
