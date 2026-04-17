@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Stephen%20Huynh&fontSize=60&fontColor=fff&animation=fadeIn&desc=Data%20Science%20Enthusiast&descFontSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&section=header&text=Stephen%20Huynh&fontSize=52&fontColor=fff&animation=fadeIn&desc=Data%20Science%20Enthusiast&descSize=18&descAlignY=62)
 
 <p align="center">
   📧 phathuynhwork18@gmail.com | 
