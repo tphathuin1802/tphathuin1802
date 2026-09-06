@@ -1,223 +1,617 @@
-<svg width="1125" height="375" viewBox="0 0 1125 375" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4MWIyYmI4Yy05Zjk4LTQzMzItYTkwNy00MjI5MTI2MjIxY2YAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLqTWXTzfhdc6MBEAV1IsigAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowZTYwNWUxYy05OWMzLTQ4MTQtYmVjNC02MGYxNjNiNjY2OTNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNohvMRUQw7kKBY6u0cx0wNOAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggWdgBX9jeFX8rmx00+BXt+IEEk0Wuc6ciVnfY/iX/68ekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEwOpm+cQ7tZkz72ytQheS4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDHuZZQDXxPxNaIvbw+yb9tcZNrb1SK0AwDG32vANveMGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjgxYjJiYjhjLTlmOTgtNDMzMi1hOTA3LTQyMjkxMjYyMjFjZi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmQyOTI0ZjJmLTE5MmYtNDlhNy1hNTM2LWZhNzdkM2FiMGY4MXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBZ2AFf2N4VfyubHTT4Fe34gQSTRa5zpyJWd9j+Jf/rx6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggGEJFS1Qu8ECdAcxL3F6RgIPP9NDRO3KDnU2yeRiKrDyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggKYrlWvRuVmuopM0tPdLzK76355fw0as9A5Bu07Y7seZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJTdilrgow6DvD/MlYLaLhVr5Ni66sJYC1W3085jJQLwe+tIWAO52cS8+VIo/Tj5Wo5yfpH+U9s1rSPb4LmMCx0=</c2pa:manifest></metadata>
+<svg width="1125" height="375" viewBox="0 0 1125 375" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxNmZkM2RhMS1iMGQxLTQ1ZWQtOTY1My02OTQ4MWE1YmRmNzMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMJTHJumbAozUj6bXM8KfrcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozMTVmOGFiOS1jNDBhLTRhYjctODcwZS0wYzI1NWQ2ZjdlOWVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoNl5fztOaevGZxzQoA95ZGQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggp0C3ewOTUrQDrFjgk1j+od8ewTp4c3S0rD5q5uDmwASkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNpZmb0jCkLSvNAby5IGxbgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDkXMxuNihltpsDf5403V5r6VZbvc0/qu5wj7xSIbLDJmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjE2ZmQzZGExLWIwZDEtNDVlZC05NjUzLTY5NDgxYTViZGY3My9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNjZWQ2NGViLTVmNDItNDE4Ny1iMTQ0LTZlODg3NTkxOThiNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCnQLd7A5NStAOsWOCTWP6h3x7BOnhzdLSsPmrm4ObABKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg5UzQULG2kx1HScvVoBczY9l6rhpPJ5+OIBJvbPTXU4eiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg1n1IF2P4XY5mxwr8dviPHOY1LGb7MY7ua1usn5eg4LB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDs/JlEEx0A2CEo55Ze9dq+OCvkc/MLZqAYSlWHDMLkrNxZN1sHzOF01pVYjtGWbNd/KKkxqO6tJXlrf/xOGd4c=</c2pa:manifest></metadata>
 <rect width="1125" height="375" fill="#1c222c"/>
-<text x="-1" y="45" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.11">M</text>
-<text x="3" y="75" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">Z</text>
-<text x="-2" y="114" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">1</text>
-<text x="2" y="211" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.24">P</text>
-<text x="-3" y="240" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.14">T</text>
-<text x="0" y="267" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.16">D</text>
-<text x="0" y="307" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.24">O</text>
-<text x="33" y="11" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.14">|</text>
-<text x="30" y="107" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">A</text>
-<text x="34" y="276" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.11">V</text>
-<text x="37" y="302" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">C</text>
-<text x="30" y="332" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.16">@</text>
-<text x="59" y="207" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.13">X</text>
-<text x="68" y="239" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">L</text>
-<text x="69" y="273" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.13">H</text>
-<text x="67" y="306" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.23">O</text>
-<text x="68" y="336" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">V</text>
-<text x="92" y="42" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.11">F</text>
-<text x="101" y="80" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.16">C</text>
-<text x="95" y="146" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">0</text>
-<text x="99" y="174" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">T</text>
-<text x="98" y="202" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">O</text>
-<text x="92" y="276" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">R</text>
-<text x="94" y="300" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.23">V</text>
-<text x="99" y="330" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.18">S</text>
-<text x="128" y="14" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">N</text>
-<text x="130" y="107" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.23">/</text>
-<text x="130" y="146" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.13">I</text>
-<text x="126" y="210" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">K</text>
-<text x="133" y="244" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">V</text>
-<text x="124" y="269" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">M</text>
-<text x="131" y="301" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.08">M</text>
-<text x="156" y="10" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">T</text>
-<text x="165" y="49" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">L</text>
-<text x="162" y="176" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">K</text>
-<text x="161" y="241" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">B</text>
-<text x="161" y="303" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.13">E</text>
-<text x="162" y="332" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">Z</text>
-<text x="188" y="17" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">|</text>
-<text x="187" y="75" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.11">N</text>
-<text x="190" y="112" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.11">B</text>
-<text x="193" y="142" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.14">@</text>
-<text x="190" y="302" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">L</text>
-<text x="224" y="10" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">B</text>
-<text x="227" y="44" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">B</text>
-<text x="221" y="75" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">C</text>
-<text x="220" y="115" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">N</text>
-<text x="220" y="144" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.18">~</text>
-<text x="224" y="205" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.16">O</text>
-<text x="224" y="267" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">0</text>
-<text x="254" y="18" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.11">O</text>
-<text x="252" y="45" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.14">V</text>
-<text x="259" y="78" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.08">*</text>
-<text x="261" y="139" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.13">G</text>
-<text x="255" y="243" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">L</text>
-<text x="261" y="270" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.18">%</text>
-<text x="289" y="14" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.08">A</text>
-<text x="290" y="114" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">Z</text>
-<text x="285" y="146" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">A</text>
-<text x="285" y="202" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.15">R</text>
-<text x="288" y="301" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">N</text>
-<text x="291" y="336" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">H</text>
-<text x="317" y="12" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.08">Y</text>
-<text x="321" y="84" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.13">N</text>
-<text x="315" y="145" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">M</text>
-<text x="318" y="205" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">1</text>
-<text x="319" y="235" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.15">P</text>
-<text x="325" y="274" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">T</text>
-<text x="319" y="300" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">O</text>
-<text x="352" y="16" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">%</text>
-<text x="347" y="80" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.18">0</text>
-<text x="353" y="235" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">T</text>
-<text x="351" y="306" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">R</text>
-<text x="351" y="338" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">G</text>
-<text x="381" y="51" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.14">~</text>
-<text x="379" y="78" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">Q</text>
-<text x="386" y="177" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.18">L</text>
-<text x="389" y="340" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">T</text>
-<text x="415" y="45" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.11">K</text>
-<text x="418" y="83" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">C</text>
-<text x="417" y="205" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">H</text>
-<text x="412" y="240" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">M</text>
-<text x="411" y="306" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.26">N</text>
-<text x="413" y="337" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.28">*</text>
-<text x="451" y="177" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.23">I</text>
-<text x="447" y="205" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.23">P</text>
-<text x="453" y="237" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">P</text>
-<text x="448" y="303" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">/</text>
-<text x="449" y="332" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">L</text>
-<text x="483" y="17" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">Y</text>
-<text x="484" y="74" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.16">~</text>
-<text x="480" y="110" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">W</text>
-<text x="483" y="179" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.18">M</text>
-<text x="482" y="202" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.15">W</text>
-<text x="477" y="273" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.28">G</text>
-<text x="481" y="307" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">~</text>
-<text x="481" y="332" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">@</text>
-<text x="512" y="13" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.15">@</text>
-<text x="513" y="78" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">D</text>
-<text x="512" y="141" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.24">C</text>
-<text x="507" y="275" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.13">H</text>
-<text x="508" y="307" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">L</text>
-<text x="512" y="332" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.24">F</text>
-<text x="543" y="11" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">1</text>
-<text x="542" y="107" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">N</text>
-<text x="548" y="234" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">U</text>
-<text x="549" y="303" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">0</text>
-<text x="576" y="20" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">@</text>
-<text x="579" y="52" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">P</text>
-<text x="580" y="142" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">S</text>
-<text x="578" y="205" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">@</text>
-<text x="578" y="271" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.18">J</text>
-<text x="575" y="303" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.26">P</text>
-<text x="603" y="18" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">K</text>
-<text x="606" y="81" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">$</text>
-<text x="607" y="109" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">X</text>
-<text x="612" y="143" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">#</text>
-<text x="611" y="175" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">U</text>
-<text x="607" y="205" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">F</text>
-<text x="611" y="236" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">K</text>
-<text x="612" y="274" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.28">Q</text>
-<text x="608" y="332" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.08">R</text>
-<text x="639" y="10" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">B</text>
-<text x="642" y="75" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">0</text>
-<text x="642" y="111" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">J</text>
-<text x="642" y="139" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.16">C</text>
-<text x="645" y="180" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.11">B</text>
-<text x="638" y="267" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.23">|</text>
-<text x="675" y="16" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.26">!</text>
-<text x="676" y="48" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">R</text>
-<text x="668" y="77" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.13">L</text>
-<text x="670" y="108" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">|</text>
-<text x="674" y="147" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.14">#</text>
-<text x="671" y="177" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">C</text>
-<text x="707" y="13" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.26">H</text>
-<text x="701" y="78" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.26">~</text>
-<text x="706" y="110" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">X</text>
-<text x="706" y="145" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">D</text>
-<text x="702" y="276" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">~</text>
-<text x="709" y="302" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">~</text>
-<text x="741" y="17" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">P</text>
-<text x="732" y="113" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.16">U</text>
-<text x="732" y="140" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.16">T</text>
-<text x="741" y="176" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">|</text>
-<text x="735" y="207" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">F</text>
-<text x="739" y="234" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">/</text>
-<text x="739" y="271" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">$</text>
-<text x="739" y="332" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">Q</text>
-<text x="773" y="51" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">N</text>
-<text x="763" y="82" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">Y</text>
-<text x="764" y="180" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.18">H</text>
-<text x="767" y="240" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.28">#</text>
-<text x="771" y="268" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">W</text>
-<text x="796" y="14" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.15">Y</text>
-<text x="795" y="78" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">R</text>
-<text x="802" y="207" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">T</text>
-<text x="802" y="239" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.28">K</text>
-<text x="801" y="269" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">Y</text>
-<text x="837" y="52" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.18">H</text>
-<text x="835" y="83" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">T</text>
-<text x="835" y="145" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">0</text>
-<text x="837" y="172" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">C</text>
-<text x="833" y="244" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">D</text>
-<text x="832" y="340" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">$</text>
-<text x="860" y="13" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.28">Q</text>
-<text x="860" y="84" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">E</text>
-<text x="859" y="174" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.15">U</text>
-<text x="867" y="208" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">~</text>
-<text x="861" y="235" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">W</text>
-<text x="868" y="268" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">M</text>
-<text x="863" y="308" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.26">0</text>
-<text x="863" y="340" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.11">/</text>
-<text x="896" y="19" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">R</text>
-<text x="895" y="49" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">R</text>
-<text x="898" y="75" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.16">N</text>
-<text x="895" y="110" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.28">1</text>
-<text x="900" y="180" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.26">B</text>
-<text x="896" y="333" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">K</text>
-<text x="930" y="234" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.23">V</text>
-<text x="927" y="271" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.12">Y</text>
-<text x="931" y="303" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.18">*</text>
-<text x="925" y="334" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">#</text>
-<text x="960" y="11" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">@</text>
-<text x="958" y="52" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">X</text>
-<text x="961" y="106" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">O</text>
-<text x="965" y="148" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">O</text>
-<text x="958" y="241" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.2">1</text>
-<text x="964" y="301" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.21">C</text>
-<text x="959" y="340" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">Y</text>
-<text x="987" y="14" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.1">$</text>
-<text x="995" y="44" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">W</text>
-<text x="989" y="176" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">E</text>
-<text x="992" y="269" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">!</text>
-<text x="992" y="299" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">V</text>
-<text x="1025" y="14" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.27">K</text>
-<text x="1022" y="116" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">1</text>
-<text x="1021" y="147" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">L</text>
-<text x="1022" y="205" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.23">T</text>
-<text x="1021" y="300" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.13">/</text>
-<text x="1029" y="330" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.08">G</text>
-<text x="1056" y="42" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.13">J</text>
-<text x="1057" y="82" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.23">F</text>
-<text x="1056" y="114" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">E</text>
-<text x="1060" y="138" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.14">*</text>
-<text x="1058" y="208" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">Z</text>
-<text x="1058" y="235" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.14">D</text>
-<text x="1053" y="270" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">|</text>
-<text x="1060" y="306" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">Q</text>
-<text x="1084" y="20" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.22">|</text>
-<text x="1090" y="45" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.15">Y</text>
-<text x="1089" y="75" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.17">S</text>
-<text x="1085" y="148" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.09">#</text>
-<text x="1084" y="207" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.19">G</text>
-<text x="1084" y="304" font-family="monospace" font-size="15" fill="#8a97a8" opacity="0.25">U</text>
-<text x="40" y="70" font-family="monospace" font-size="13" fill="#b8c2cf" opacity="0.85" letter-spacing="1">[ NODE: PHAT_CORE // ID: 0x4C9A2E ]</text>
-<text x="1085" y="70" text-anchor="end" font-family="monospace" font-size="13" fill="#b8c2cf" opacity="0.85" letter-spacing="1">[ DOMAIN: DATA_SCIENCE ]</text>
-<text x="40" y="345" font-family="monospace" font-size="13" fill="#b8c2cf" opacity="0.85" letter-spacing="1">MODEL_TRAINING_STATE: CONVERGED</text>
-<text x="1085" y="345" text-anchor="end" font-family="monospace" font-size="13" fill="#b8c2cf" opacity="0.85" letter-spacing="1">ACCURACY: 98.4% // LOSS: 0.021</text>
+<clipPath id="clip"><rect x="0" y="0" width="1125" height="375"/></clipPath>
+<g clip-path="url(#clip)">
+<g>
+<g transform="translate(1,-105)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">/</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">E</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">V</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">B</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">%</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">L</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">A</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="1,-105" to="1,390" dur="5.28s" begin="0.29s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(23,-135)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">|</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">Z</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">B</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">~</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">F</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">M</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">B</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">~</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">X</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="23,-135" to="23,390" dur="5.38s" begin="1.44s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(48,-105)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">Q</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">Y</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">H</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">/</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">F</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">~</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">R</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="48,-105" to="48,390" dur="3.71s" begin="5.15s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(82,-180)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">~</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">K</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">V</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">E</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">|</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">C</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">~</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">B</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">L</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">$</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">/</text>
+<text x="0" y="165" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">Z</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="82,-180" to="82,390" dur="6.57s" begin="0.62s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(105,-135)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">R</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">N</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">J</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">N</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">D</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">~</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">R</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">*</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">$</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="105,-135" to="105,390" dur="6.14s" begin="2.72s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(131,-165)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">C</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">F</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">%</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">Y</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">I</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">T</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">H</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">$</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">Y</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">A</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">C</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="131,-165" to="131,390" dur="5.52s" begin="3.65s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(160,-150)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">T</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">U</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">$</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">@</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">C</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">D</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">P</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">#</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">C</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">B</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="160,-150" to="160,390" dur="7.05s" begin="4.91s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(182,-165)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">!</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">Q</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">W</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">U</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">1</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">@</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">U</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">I</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">F</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">$</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">B</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="182,-165" to="182,390" dur="6.1s" begin="4.09s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(207,-180)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">X</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">X</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">$</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">D</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">I</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">!</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">X</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">|</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">P</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">G</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">Z</text>
+<text x="0" y="165" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">|</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="207,-180" to="207,390" dur="4.79s" begin="4.43s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(234,-165)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">W</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">M</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">H</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">D</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">J</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">H</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">M</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">M</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">0</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">$</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">J</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="234,-165" to="234,390" dur="5.37s" begin="2.15s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(260,-120)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">V</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">~</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">S</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">G</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">%</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">B</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">@</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">|</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="260,-120" to="260,390" dur="3.52s" begin="2.51s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(288,-135)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">X</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">B</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">K</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">C</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">L</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">!</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">I</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">F</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">T</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="288,-135" to="288,390" dur="5.3s" begin="0.62s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(308,-90)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">E</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">V</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">1</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">C</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">L</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">W</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="308,-90" to="308,390" dur="3.5s" begin="0.91s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(336,-165)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">V</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">#</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">F</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">F</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">$</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">@</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">#</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">#</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">R</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">D</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">H</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="336,-165" to="336,390" dur="4.64s" begin="2.08s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(361,-165)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">I</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">*</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">1</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">L</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">*</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">V</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">H</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">/</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">1</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">*</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">R</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="361,-165" to="361,390" dur="5.04s" begin="1.59s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(387,-165)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">I</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">U</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">M</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">/</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">/</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">%</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">T</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">M</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">K</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">N</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">X</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="387,-165" to="387,390" dur="7.3s" begin="3.11s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(415,-105)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">1</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">1</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">P</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">#</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">O</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">K</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">U</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="415,-105" to="415,390" dur="5.83s" begin="2.13s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(445,-180)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">V</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">D</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">M</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">E</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">M</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">#</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">K</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">T</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">L</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">#</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">0</text>
+<text x="0" y="165" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">#</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="445,-180" to="445,390" dur="7.72s" begin="5.93s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(469,-180)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">F</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">W</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">K</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">#</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">J</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">Z</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">T</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">D</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">X</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">@</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">X</text>
+<text x="0" y="165" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">D</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="469,-180" to="469,390" dur="6.39s" begin="5.01s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(492,-105)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">@</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">H</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">#</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">U</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">H</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">|</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">|</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="492,-105" to="492,390" dur="7.97s" begin="0.17s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(518,-90)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">E</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">*</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">G</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">Z</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">K</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">L</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="518,-90" to="518,390" dur="3.56s" begin="5.83s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(542,-120)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">S</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">O</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">/</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">Y</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">G</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">B</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">U</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">@</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="542,-120" to="542,390" dur="4.46s" begin="3.01s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(576,-135)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">G</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">/</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">H</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">*</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">%</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">1</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">!</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">J</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">0</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="576,-135" to="576,390" dur="7.22s" begin="5.27s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(596,-105)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">F</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">|</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">B</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">S</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">*</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">*</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">|</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="596,-105" to="596,390" dur="4.14s" begin="3.71s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(627,-180)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">B</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">N</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">K</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">P</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">A</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">E</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">%</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">!</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">|</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">1</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">C</text>
+<text x="0" y="165" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">!</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="627,-180" to="627,390" dur="6.99s" begin="5.3s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(651,-150)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">K</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">P</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">!</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">%</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">/</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">#</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">%</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">N</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">*</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">O</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="651,-150" to="651,390" dur="7.88s" begin="3.64s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(680,-105)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">F</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">X</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">!</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">S</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">C</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">N</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">Z</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="680,-105" to="680,390" dur="7.28s" begin="0.82s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(699,-105)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">H</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">V</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">H</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">O</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">G</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">@</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">M</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="699,-105" to="699,390" dur="6.51s" begin="4.7s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(725,-135)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">M</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">I</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">Z</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">%</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">X</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">T</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">Y</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">K</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">U</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="725,-135" to="725,390" dur="7.48s" begin="0.98s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(755,-90)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">|</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">@</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">!</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">1</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">W</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">T</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="755,-90" to="755,390" dur="6.75s" begin="0.12s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(784,-150)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">F</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">M</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">E</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">D</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">O</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">P</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">A</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">J</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">P</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">G</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="784,-150" to="784,390" dur="4.83s" begin="5.76s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(808,-180)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">O</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">X</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">H</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">/</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">%</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">~</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">$</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">S</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">D</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">P</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">B</text>
+<text x="0" y="165" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">J</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="808,-180" to="808,390" dur="7.6s" begin="4.91s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(834,-90)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">D</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">O</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">D</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">M</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">C</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">O</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="834,-90" to="834,390" dur="4.71s" begin="0.1s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(855,-135)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">Y</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">P</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">G</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">A</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">*</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">N</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">F</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">I</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">O</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="855,-135" to="855,390" dur="3.55s" begin="5.97s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(880,-105)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">R</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">*</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.12">L</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">Q</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">!</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.22">%</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">J</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="880,-105" to="880,390" dur="4.41s" begin="1.87s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(910,-120)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">A</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">0</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">1</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">%</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">|</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">K</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">%</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">#</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="910,-120" to="910,390" dur="7.12s" begin="5.97s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(935,-135)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">Z</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">$</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">/</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">X</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.16">%</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.18">R</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">L</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">M</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">T</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="935,-135" to="935,390" dur="3.98s" begin="4.91s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(961,-180)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">G</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">X</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">U</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">B</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">G</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">0</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">C</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">O</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">Z</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">I</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">B</text>
+<text x="0" y="165" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">D</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="961,-180" to="961,390" dur="7.47s" begin="4.37s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(990,-180)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">N</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.08">Q</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">A</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">@</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">J</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.15">I</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">P</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.19">!</text>
+<text x="0" y="120" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">0</text>
+<text x="0" y="135" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">O</text>
+<text x="0" y="150" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.24">V</text>
+<text x="0" y="165" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">T</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="990,-180" to="990,390" dur="5.78s" begin="5.83s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(1018,-120)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">R</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">L</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">U</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">J</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">0</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">T</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">W</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">D</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="1018,-120" to="1018,390" dur="4.6s" begin="5.79s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(1043,-120)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">%</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">0</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">D</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">O</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">D</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">H</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">X</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">A</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="1043,-120" to="1043,390" dur="5.76s" begin="1.21s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(1068,-90)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">D</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.1">*</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.13">H</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">W</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.21">S</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">$</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="1068,-90" to="1068,390" dur="4.85s" begin="3.78s" repeatCount="indefinite"/>
+</g>
+</g>
+<g>
+<g transform="translate(1090,-120)">
+<text x="0" y="0" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.06">A</text>
+<text x="0" y="15" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.09">%</text>
+<text x="0" y="30" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.11">Z</text>
+<text x="0" y="45" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.14">%</text>
+<text x="0" y="60" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.17">G</text>
+<text x="0" y="75" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.2">*</text>
+<text x="0" y="90" font-family="monospace" font-size="15" fill="#7d8899" opacity="0.23">%</text>
+<text x="0" y="105" font-family="monospace" font-size="15" fill="#e7ebf0" opacity="0.9">~</text>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" from="1090,-120" to="1090,390" dur="6.76s" begin="3.86s" repeatCount="indefinite"/>
+</g>
+</g>
+</g>
+<text x="40" y="70" font-family="monospace" font-size="13" fill="#b8c2cf" opacity="0.9" letter-spacing="1">[ NODE: PHAT_CORE // ID: 0x4C9A2E ]</text>
+<text x="1085" y="70" text-anchor="end" font-family="monospace" font-size="13" fill="#b8c2cf" opacity="0.9" letter-spacing="1">[ DOMAIN: DATA_SCIENCE ]</text>
+<text x="40" y="345" font-family="monospace" font-size="13" fill="#b8c2cf" opacity="0.9" letter-spacing="1">MODEL_TRAINING_STATE: CONVERGED</text>
+<text x="1085" y="345" text-anchor="end" font-family="monospace" font-size="13" fill="#b8c2cf" opacity="0.9" letter-spacing="1">ACCURACY: 98.4% // LOSS: 0.021</text>
+<rect x="0" y="120" width="1125" height="150" fill="#1c222c" opacity="0.55"/>
 <text x="562.5" y="185" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" fill="#ffffff" letter-spacing="4">PHAT HUYNH</text>
 <text x="562.5" y="235" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#e6e9ee" letter-spacing="3">DATA SCIENCE ENTHUSIAST // ML ENGINEER</text>
 <text x="562.5" y="268" text-anchor="middle" font-family="monospace" font-size="14" fill="#9aa5b1" letter-spacing="1">[ MODEL_LOADED // INSIGHTS_PIPELINE_ONLINE ]</text>
