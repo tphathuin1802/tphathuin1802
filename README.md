@@ -1,19 +1,24 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=PHAT%20HUYNH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
+  <!-- HERO MATRIX BANNER -->
+  <img src="./assets/matrix-banner.svg" width="100%" alt="PHAT HUYNH // DATA SCIENCE CORE" />
 
-  <br/>
+  <br/><br/>
 
+  <!-- COMMAND PROMPT TYPING -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=32&lines=Data+Science+Enthusiast;Training+models...+ACTIVE;Turning+data+into+decisions"
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=32&lines=Data+Science+Enthusiast;Training+models...+ACTIVE;Turning+data+into+decisions;Always+exploring+new+algorithms"
     alt="Typing SVG"
   />
 
   <br/><br/>
 
+  <!-- MONOCHROME BADGES -->
   <img src="https://img.shields.io/badge/ROLE-DATA_SCIENTIST-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-MACHINE_LEARNING-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
 
   <br/><br/>
 
@@ -27,7 +32,9 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
+<br/>
 
 ## TECH STACK
 
@@ -48,6 +55,16 @@
 
 <br/>
 
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
+<br/>
+
 <div align="center">
-  <sub>Phat Huynh</sub>
+
+  <img src="https://komarev.com/ghpvc/?username=phat-huynh&style=for-the-badge&color=ffffff&labelColor=050505&label=PROFILE+VIEWS" />
+
+  <br/><br/>
+
+  <sub>Engineered by <strong>Phat Huynh</strong> &mdash; Data Science Enthusiast</sub>
+
 </div>
