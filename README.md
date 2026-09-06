@@ -1,7 +1,6 @@
 <div align="center">
   <!-- 1. HERO MATRIX RAIN & IDENTITY -->
   <img src="./assets/matrix-banner.svg" width="100%" alt="PHAT HUYNH // DATA SCIENCE CORE" />
-
   <!-- 3. COMMAND PROMPT TYPING -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=36&lines=Data+Science+Enthusiast;Training+models...+ACTIVE;Turning+data+into+decisions;Always+exploring+new+algorithms"
