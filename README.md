@@ -42,21 +42,6 @@
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
-## WHO AM I ?
-
-> *"Data doesn't lie, but it needs the right questions to speak."*
-
-Hi, I'm **Phat Huynh** &mdash; a Data Science enthusiast passionate about turning raw data into actionable insight through machine learning and deep learning.
-
-* **Modeling:** Building and tuning ML/DL models with TensorFlow, PyTorch, and Scikit-Learn.
-* **Computer Vision:** Exploring image and video processing pipelines with OpenCV.
-* **Full-Stack Data Apps:** Shipping data-driven applications end-to-end with Django, SQL, and Docker.
-
-Always curious, constantly experimenting, and forever passionate about learning from data.
-
-<br/>
-
-<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
 ## TECH STACK
 
