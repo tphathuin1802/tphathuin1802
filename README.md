@@ -15,11 +15,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
   <br/><br/>
-  <p align="center">
-    📧 <a href="mailto:phathuynhwork18@gmail.com">phathuynhwork18@gmail.com</a> &nbsp;|&nbsp;
-    🔗 <a href="https://linkedin.com/in/tphathuin">LinkedIn</a> &nbsp;|&nbsp;
-    🌐 <a href="https://stephen-huynh.vercel.app">Portfolio</a>
-  </p>
 </div>
 <br/>
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
