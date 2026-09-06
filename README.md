@@ -1,13 +1,7 @@
 <div align="center">
   <!-- 1. HERO MATRIX RAIN & IDENTITY -->
   <img src="./assets/matrix-banner.svg" width="100%" alt="PHAT HUYNH // DATA SCIENCE CORE" />
-  <br/>
-  <!-- 2. BIO & IDENTITY DESCRIPTION -->
-  <p align="center">
-    <strong>Data Scientist &amp; ML Engineer</strong><br/>
-    <sub>Turning raw data into models, insights, and decisions.</sub>
-  </p>
-  <br/>
+
   <!-- 3. COMMAND PROMPT TYPING -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=36&lines=Data+Science+Enthusiast;Training+models...+ACTIVE;Turning+data+into+decisions;Always+exploring+new+algorithms"
@@ -51,8 +45,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tphathuin&style=for-the-badge&color=ffffff&labelColor=050505&label=PROFILE+VIEWS" />
   <br/><br/>
-  <sub>
-    Engineered by <strong>Phat Huynh</strong>
-    &mdash; Data Science Enthusiast
-  </sub>
 </div>
