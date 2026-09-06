@@ -1,13 +1,19 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Phat%20Huynh&fontSize=50&fontColor=fff&animation=fadeIn&desc=Data%20Science%20Enthusiast&descSize=18&descAlignY=65" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=PHAT%20HUYNH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
 
   <br/>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=764BA2&center=true&vCenter=true&width=760&height=36&lines=Data+Scientist+%7C+ML+Engineer;Building+models+that+learn+from+data;Turning+data+into+decisions;Always+exploring+new+algorithms"
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=32&lines=Data+Science+Enthusiast;Training+models...+ACTIVE;Turning+data+into+decisions"
     alt="Typing SVG"
   />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/ROLE-DATA_SCIENTIST-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-MACHINE_LEARNING-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
 
   <br/><br/>
 
@@ -19,37 +25,29 @@
 
 </div>
 
----
+<br/>
 
-## WHO AM I?
-
-Hi, I'm **Phat Huynh** — a Data Science enthusiast passionate about turning raw data into actionable insight through machine learning and deep learning.
-
-* **Modeling:** Building and tuning ML/DL models with TensorFlow, PyTorch, and Scikit-Learn.
-* **Computer Vision:** Exploring image and video processing pipelines with OpenCV.
-* **Full-stack Data Apps:** Shipping data-driven applications end-to-end with Django, SQL, and Docker.
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## TECH STACK
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
+<br/>
 
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/">Phat Huynh</a></sub>
+  <sub>Phat Huynh</sub>
 </div>
