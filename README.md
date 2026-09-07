@@ -18,8 +18,6 @@
 <br/>
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
-## TECH STACK
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white" />
